@@ -1,2 +1,0 @@
-# estyadevops
-devops
